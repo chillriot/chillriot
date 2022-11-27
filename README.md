@@ -1,3 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9eff00&lines=HELLO+FRIEND)](https://git.io/typing-svg)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chillriot&theme=2077) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chillriot&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chillriot&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chillriot&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chillriot&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chillriot&theme=2077&utcOffset=8)
